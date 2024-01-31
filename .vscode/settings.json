@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "subproject_1/build/classes/java/main",
+        "subproject_2/build/classes/java/main"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

@@ -1,0 +1,28 @@
+# Ignore Gradle build directory
+**/build/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+
+# Ignore build artifacts
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Ignore generated files
+build.gradle.user
+.gradle/
+out/
+
+# Ignore macOS system files
+.DS_Store
+
+**/MANIFEST.MF
