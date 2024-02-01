@@ -1,3 +1,9 @@
+# Instructions
+1. clone or fork repo
+2. Make sure you have gradle 8.5 and java 21 installed
+3. run $ gradle wrapper
+4. run $ ./gradlew clean build
+
 # Versions
 Java 21, Gradle 8.5
 
