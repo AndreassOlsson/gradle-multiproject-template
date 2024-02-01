@@ -8,6 +8,12 @@ application {
     mainClass.set('com.example.project2.Main')
 }
 
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
 group 'com.example.project2' // Set the group for subproject_1
 version '1.0-SNAPSHOT'
 
