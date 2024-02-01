@@ -26,3 +26,16 @@ out/
 .DS_Store
 
 **/MANIFEST.MF
+
+# Ignore Gradle project-specific cache directory
+*.gradle
+*.metals
+
+# Ignore Gradle build output directory
+build
+!build.gradle
+
+*.vscode
+
+*.index
+!settings.gradle

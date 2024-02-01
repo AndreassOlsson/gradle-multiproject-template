@@ -1,1 +1,3 @@
-include 'subproject_1', 'subproject_2'
+rootProject.name = 'gradle-multi'
+include 'subproject_1'
+include 'subproject_2'
